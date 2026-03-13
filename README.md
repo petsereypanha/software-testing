@@ -8,22 +8,23 @@
 ## 📁 Repository Structure
 
 ```
+```
 QA/
 ├── README.md                        ← You are here
-├── Week-00-Onboarding/
-├── Week-01-QA-Foundations/
-├── Week-02-Testing-Fundamentals/
-├── Week-03-Test-Case-Design/
+├── Week-0-Onboarding/
+├── Week-1-QA-Foundations/
+├── Week-2-Testing-Fundamentals/
+├── Week-3-Test-Case-Design/
 │   └── templates/
-├── Week-04-Bug-Tracking/
+├── Week-4-Bug-Tracking/
 │   └── templates/
-├── Week-05-Agile-Scrum/
-├── Week-06-API-Testing/
+├── Week-5-Agile-Scrum/
+├── Week-6-API-Testing/
 │   └── postman/
-├── Week-07-Quality-Standards/
-├── Week-08-Test-Automation/
+├── Week-7-Quality-Standards/
+├── Week-8-Test-Automation/
 │   └── selenium_project/
-├── Week-09-Advanced-QA/
+├── Week-9-Advanced-QA/
 ├── Week-10-Capstone/
 │   └── deliverables/
 ├── templates/
