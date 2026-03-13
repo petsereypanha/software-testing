@@ -8,7 +8,6 @@
 ## 📁 Repository Structure
 
 ```
-```
 QA/
 ├── README.md                        ← You are here
 ├── Week-0-Onboarding/
@@ -37,16 +36,16 @@ QA/
 
 | Week | Title | Focus Area | Key Tool |
 |------|-------|------------|----------|
-| [Week 0](./Week-00-Onboarding/README.md) | Onboarding & Orientation | Setup & Expectations | Jira, Slack |
-| [Week 1](./Week-01-QA-Foundations/README.md) | Introduction to Quality Assurance | QA Foundations | Google Docs, draw.io |
-| [Week 2](./Week-02-Testing-Fundamentals/README.md) | Software Testing Fundamentals | Manual Testing | Browser DevTools |
-| [Week 3](./Week-03-Test-Case-Design/README.md) | Test Case Design & Documentation | Test Planning | TestLink, Sheets |
-| [Week 4](./Week-04-Bug-Tracking/README.md) | Bug Tracking & Defect Management | Defect Lifecycle | Jira |
-| [Week 5](./Week-05-Agile-Scrum/README.md) | Agile, Scrum & QA in the SDLC | Agile QA | Jira Scrum |
-| [Week 6](./Week-06-API-Testing/README.md) | API Testing & Web QA | REST APIs | Postman |
-| [Week 7](./Week-07-Quality-Standards/README.md) | Quality Standards & Process Improvement | ISO, Six Sigma, PDCA | Excel, draw.io |
-| [Week 8](./Week-08-Test-Automation/README.md) | Test Automation Basics | Selenium + Python | Selenium, pytest |
-| [Week 9](./Week-09-Advanced-QA/README.md) | Performance, Security & Advanced QA | Non-Functional Testing | JMeter, OWASP ZAP |
+| [Week 0](./Week-0-Onboarding/README.md) | Onboarding & Orientation | Setup & Expectations | Jira, Slack |
+| [Week 1](./Week-1-QA-Foundations/README.md) | Introduction to Quality Assurance | QA Foundations | Google Docs, draw.io |
+| [Week 2](./Week-2-Testing-Fundamentals/README.md) | Software Testing Fundamentals | Manual Testing | Browser DevTools |
+| [Week 3](./Week-3-Test-Case-Design/README.md) | Test Case Design & Documentation | Test Planning | TestLink, Sheets |
+| [Week 4](./Week-4-Bug-Tracking/README.md) | Bug Tracking & Defect Management | Defect Lifecycle | Jira |
+| [Week 5](./Week-5-Agile-Scrum/README.md) | Agile, Scrum & QA in the SDLC | Agile QA | Jira Scrum |
+| [Week 6](./Week-6-API-Testing/README.md) | API Testing & Web QA | REST APIs | Postman |
+| [Week 7](./Week-7-Quality-Standards/README.md) | Quality Standards & Process Improvement | ISO, Six Sigma, PDCA | Excel, draw.io |
+| [Week 8](./Week-8-Test-Automation/README.md) | Test Automation Basics | Selenium + Python | Selenium, pytest |
+| [Week 9](./Week-9-Advanced-QA/README.md) | Performance, Security & Advanced QA | Non-Functional Testing | JMeter, OWASP ZAP |
 | [Week 10](./Week-10-Capstone/README.md) | Capstone Project & Career Readiness | Final Project | All tools |
 
 ---
