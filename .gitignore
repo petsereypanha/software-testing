@@ -1,0 +1,54 @@
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Python (Week 8 automation) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / test / coverage
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Selenium / pytest reports and artifacts
+reports/
+screenshots/
+*.log
+
+# --- JavaScript / Node (if used for tooling) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.bak
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+
