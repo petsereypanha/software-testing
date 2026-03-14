@@ -254,4 +254,4 @@ Using the [Session Charter Template](../templates/session-charter-template.md):
 
 ---
 
-*← [Week 1 — QA Foundations](../Week-01-QA-Foundations/README.md) | [Week 3 — Test Case Design →](../Week-3-Test-Case-Design/README.md)*
+*← [Week 1 — QA Foundations](../Week-1-QA-Foundations/README.md) | [Week 3 — Test Case Design →](../Week-3-Test-Case-Design/README.md)*
