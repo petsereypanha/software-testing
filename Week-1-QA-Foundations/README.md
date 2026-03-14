@@ -235,4 +235,4 @@ Submit all 4 deliverables to your mentor via Google Doc share or Confluence page
 
 ---
 
-*← [Week 0 — Onboarding](../Week-00-Onboarding/README.md) | [Week 2 — Testing Fundamentals →](../Week-02-Testing-Fundamentals/README.md)*
+*← [Week 0 — Onboarding](../Week-00-Onboarding/README.md) | [Week 2 — Testing Fundamentals →](../Week-2-Testing-Fundamentals/README.md)*

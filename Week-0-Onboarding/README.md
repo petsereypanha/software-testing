@@ -138,4 +138,4 @@ Before Week 1 officially starts, try to review these resources:
 
 ---
 
-*Next: [Week 1 — Introduction to Quality Assurance →](../Week-01-QA-Foundations/README.md)*
+*Next: [Week 1 — Introduction to Quality Assurance →](../Week-1-QA-Foundations/README.md)*
