@@ -1,0 +1,44 @@
+name: Selenium Tests
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up Chrome browser
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Install Python dependencies
+        working-directory: Week-08-Test-Automation/selenium_project
+        run: pip install -r requirements.txt
+
+      - name: Run Selenium tests (headless)
+        working-directory: Week-08-Test-Automation/selenium_project
+        run: |
+          pytest \
+            --html=report.html \
+            --self-contained-html \
+            -v
+        env:
+          HEADLESS: "true"
+
+      - name: Upload test report artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: selenium-test-report
+          path: Week-08-Test-Automation/selenium_project/report.html
